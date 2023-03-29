@@ -9,7 +9,7 @@ const About = () => {
             Trusted by developers across the world
           </h2>
           <p className="text-3xl py-6 text-gray-500">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cumque
+            Lorem ipsum dolor sdsasdsadit amet consectetur, adipisicing elit. Cumque
             asperiores earum placeat veritatis dignissimos itaque.
           </p>
         </div>
